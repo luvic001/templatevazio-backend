@@ -38,9 +38,6 @@ $routes = [
   'backend' => [
     'index' => [
       'PATH' => 'core/home'
-    ],
-    'contato' => [
-      'PATH' => 'cbma/contato'
     ]
   ]
 ];
